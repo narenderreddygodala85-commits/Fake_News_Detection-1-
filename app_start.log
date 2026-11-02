@@ -1,0 +1,28 @@
+﻿C:\Users\user\AppData\Local\Programs\Python\Python312\python.exe : 
+C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\base.py:525: 
+InconsistentVersionWarning: Trying to unpickle estimator TfidfTransformer from version 1.7.2 when using version 1.9.1. 
+This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+At line:1 char:1
++ C:\Users\user\AppData\Local\Programs\Python\Python312\python.exe D:\o ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\user\A...lease refer to::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\base.py:525: 
+InconsistentVersionWarning: Trying to unpickle estimator TfidfVectorizer from version 1.7.2 when using version 1.9.1. 
+This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+C:\Users\user\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\base.py:525: 
+InconsistentVersionWarning: Trying to unpickle estimator MultinomialNB from version 1.7.2 when using version 1.9.1. 
+This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+Error loading models: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+ * Serving Flask app 'app'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit

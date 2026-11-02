@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "python run_local.py", 0, True

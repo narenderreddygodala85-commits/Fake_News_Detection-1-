@@ -1,0 +1,8 @@
+OK Naive Bayes model loaded successfully!
+OK Random Forest model loaded successfully!
+OK SVM model loaded successfully!
+OK Logistic Regression model loaded successfully!
+OK Total 4 models loaded!
+WARNING Fact Checker initialization failed: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+ * Serving Flask app 'app'
+ * Debug mode: on
